@@ -6,6 +6,7 @@ IF/ID, ID/EX, EX/MEM, MEM/WB
 
 ## Data Hazard & Control Hazard
 Data hazard is solved by data forwardings including RF Bypassing, MEM-to-MEM, MEM-to-EX, EX-to-EX.
+
 Control hazard is solved by Branch-Not-Taken strategy, flush the incorrect instruction fetched, and insert a stall (NOP).
 
 ## High-level Processor Block Diagram
