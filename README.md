@@ -10,4 +10,4 @@ Data hazard is solved by data forwardings including RF Bypassing, MEM-to-MEM, ME
 Control hazard is solved by Predict-Not-Taken strategy, flush the incorrectly fetched instruction, and insert a stall (NOP).
 
 ## High-level Processor Block Diagram
-
+![Processor_Block_Diagram](https://github.com/RookieT0T/Pipelined_Processor_Design/assets/125717952/ae432d66-2c4b-44e8-834f-ed1c27cb87af)
